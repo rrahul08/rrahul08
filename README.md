@@ -1,3 +1,5 @@
+<img src="images/Bottom_up.svg" alt="Your SVG File">
+
 <h1 align="center">Hi 👋, I'm Rahul R</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrahul08&label=Profile%20views&color=0e75b6&style=flat" alt="rrahul08" /> </p>
 
