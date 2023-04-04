@@ -5,10 +5,10 @@
 ![header](https://user-images.githubusercontent.com/100457954/229787327-26aaf982-3247-4cdf-8230-f7a8041b4a49.png)
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Rahul+R;+Welcome+to+My+Profile!;Aspiring+web+developer;I+am+currently+learning+Javascript+Node.js+React.js+Express.js;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+amigos+👋,+I+am+Rahul+R;+Welcome+to+My+Profile!;Aspiring+web+developer;I'm+currently+learning+Javascript+Node.js+React.js+Express.js;)](https://git.io/typing-svg)
 
 
-<h1 align="center">Hi 👋, I'm Rahul R</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrahul08&label=Profile%20views&color=0e75b6&style=flat" alt="rrahul08" /> </p>
 
 <h3 align="left">Connect with me:</h3>
