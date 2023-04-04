@@ -36,4 +36,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rrahul08&" alt="rrahul08" /></p>
 <!--   grid-snake -->
-![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/rrahul08/rrahul08/blob/output/github-contribution-grid-snake.gif)
