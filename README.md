@@ -5,7 +5,7 @@
 ![header](https://user-images.githubusercontent.com/100457954/229787327-26aaf982-3247-4cdf-8230-f7a8041b4a49.png)
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+amigos+👋,+I+am+Rahul+R;+Welcome+to+My+Profile!;Aspiring+web+developer;I'm+currently+learning+Node.js+React.js+Express.js;)](https://git.io/typing-svg)
+<p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+amigos+👋,+I+am+Rahul+R;+Welcome+to+My+Profile!;Aspiring+web+developer;I'm+currently+learning+Javascript+Node.js+React.js+Express.js;)](https://git.io/typing-svg)</p>
 
 
 
