@@ -1,4 +1,8 @@
+<!-- welcome -->
 ![Bottom_up (1)](https://user-images.githubusercontent.com/100457954/229785062-4f0909d5-0da8-4864-82c6-cf09fa9dad7e.svg)
+
+<!-- header -->
+![header](https://user-images.githubusercontent.com/100457954/229787327-26aaf982-3247-4cdf-8230-f7a8041b4a49.png)
 
 
 <h1 align="center">Hi 👋, I'm Rahul R</h1>
