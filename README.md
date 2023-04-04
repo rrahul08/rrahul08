@@ -1,4 +1,5 @@
-![Bottom_up](https://user-images.githubusercontent.com/100457954/229782487-2a9da437-724b-462a-bc23-20116d9eff3d.svg)
+![Bottom_up (1)](https://user-images.githubusercontent.com/100457954/229785062-4f0909d5-0da8-4864-82c6-cf09fa9dad7e.svg)
+
 
 <h1 align="center">Hi 👋, I'm Rahul R</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrahul08&label=Profile%20views&color=0e75b6&style=flat" alt="rrahul08" /> </p>
