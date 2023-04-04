@@ -1,17 +1,20 @@
 <!-- welcome -->
 ![Bottom_up (1)](https://user-images.githubusercontent.com/100457954/229785062-4f0909d5-0da8-4864-82c6-cf09fa9dad7e.svg)
 
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/BEPb/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
+    <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
+    <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
+</p>
+
 <!-- header -->
 ![header](https://user-images.githubusercontent.com/100457954/229787327-26aaf982-3247-4cdf-8230-f7a8041b4a49.png)
 
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+amigos+👋,+I+am+Rahul+R;+Welcome+to+My+Profile!;Aspiring+web+developer;I'm+currently+learning+Javascript+Node.js+React.js+Express.js;)](https://git.io/typing-svg)
 
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rrahul08&label=Profile%20views&color=0e75b6&style=flat" alt="rrahul08" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
